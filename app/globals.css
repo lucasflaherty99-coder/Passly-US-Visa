@@ -1,0 +1,100 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-bg: #FAFAFA;
+  --color-card: #F3F4F8;
+  --color-primary: #7E1B2A;
+  --color-primary-dark: #63141F;
+  --color-navy: #1B3569;
+  --color-text: #1A2842;
+  --color-muted: #5B6880;
+  --color-border: #DDE1EA;
+  --color-success: #10b981;
+  --color-warning: #f59e0b;
+  --color-danger: #ef4444;
+
+  --font-sans: var(--font-geist), ui-sans-serif, system-ui, sans-serif;
+
+  --radius-sm: 0.5rem;
+  --radius-md: 0.75rem;
+  --radius-lg: 1rem;
+  --radius-xl: 1.5rem;
+  --radius-full: 9999px;
+
+  --shadow-sm: 0 1px 3px rgb(0 0 0 / 0.06), 0 1px 2px rgb(0 0 0 / 0.04);
+  --shadow-card: 0 4px 24px rgb(0 0 0 / 0.06), 0 1px 4px rgb(0 0 0 / 0.04);
+  --shadow-elevated: 0 8px 40px rgb(0 0 0 / 0.08), 0 2px 8px rgb(0 0 0 / 0.04);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #FAFAFA;
+  color: #1A2842;
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: #7E1B2A33;
+  color: #1B3569;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #d1d5db;
+  border-radius: 3px;
+}
+
+/* Focus ring */
+:focus-visible {
+  outline: 2px solid #1B3569;
+  outline-offset: 2px;
+}
+
+/* Glass card utility */
+.glass-card {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  box-shadow: var(--shadow-card);
+}
+
+/* Gradient backgrounds */
+.gradient-hero {
+  background: linear-gradient(
+    135deg,
+    #FAFAFA 0%,
+    #F0F1F7 50%,
+    #F5F0F2 100%
+  );
+}
+
+.gradient-primary {
+  background: linear-gradient(135deg, #7E1B2A 0%, #63141F 100%);
+}
+
+.gradient-navy {
+  background: linear-gradient(135deg, #1B3569 0%, #0F2048 100%);
+}
+
+/* Score ring animation */
+@keyframes score-ring {
+  from {
+    stroke-dashoffset: 283;
+  }
+}

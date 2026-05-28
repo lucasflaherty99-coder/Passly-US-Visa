@@ -1,0 +1,24 @@
+<svg width="32" height="36" viewBox="0 0 44 50" fill="none" overflow="visible" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield -->
+  <path d="M 5,9 Q 5,4 10,4 L 34,4 Q 39,4 39,9 L 39,32 Q 39,46 22,51 Q 5,46 5,32 Z"
+        fill="#FFFFFF" stroke="#1B3A6B" stroke-width="2.5" stroke-linejoin="round"/>
+  <!-- Globe fill -->
+  <circle cx="22" cy="26" r="13" fill="#D4ECF8"/>
+  <!-- Globe outline -->
+  <circle cx="22" cy="26" r="13" stroke="#90B8D8" stroke-width="1.5" fill="none"/>
+  <!-- Meridian -->
+  <ellipse cx="22" cy="26" rx="5.5" ry="13" stroke="#90B8D8" stroke-width="1" fill="none"/>
+  <!-- Latitude lines -->
+  <line x1="9"  y1="26" x2="35" y2="26" stroke="#90B8D8" stroke-width="1"/>
+  <line x1="11" y1="19" x2="33" y2="19" stroke="#90B8D8" stroke-width="0.8"/>
+  <line x1="11" y1="33" x2="33" y2="33" stroke="#90B8D8" stroke-width="0.8"/>
+  <!-- Checkmark -->
+  <path d="M 10,29 L 20,40 L 37,17" stroke="#1B3A6B" stroke-width="3"
+        stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- Crimson airplane -->
+  <g transform="translate(30, -1) rotate(42, 6, 6)">
+    <path d="M 6,0 L 12,5 L 6,10 L 7.5,5 Z" fill="#8B1C2C"/>
+    <path d="M 8,4 L 13,0 L 14,2 L 9.5,5 Z" fill="#8B1C2C"/>
+    <path d="M 8,6 L 13,10 L 14,8 L 9.5,5 Z" fill="#8B1C2C"/>
+  </g>
+</svg>

@@ -1,0 +1,578 @@
+{
+  "meta": {
+    "siteName": "Passly AI",
+    "defaultTitle": "Passly AI — Encuentra tu camino hacia una visa de EE.UU.",
+    "defaultDescription": "Descubre qué visas de EE.UU. podrías calificar según tu perfil. Gratis, rápido y educativo — no es asesoría legal.",
+    "ogImage": "/og-image.png"
+  },
+  "nav": {
+    "logo": "Passly AI",
+    "howItWorks": "Cómo funciona",
+    "visaTypes": "Tipos de visa",
+    "startQuiz": "Verificar mi elegibilidad",
+    "language": "Idioma",
+    "home": "Inicio",
+    "backToHome": "Volver al inicio"
+  },
+  "landing": {
+    "hero": {
+      "badge": "Análisis de elegibilidad gratuito",
+      "headline": "Encuentra tu camino hacia una visa de EE.UU. en minutos.",
+      "subheadline": "Responde algunas preguntas sobre tu perfil y objetivos. Te mostramos qué visas podrías calificar — de forma clara, rápida y sin tecnicismos legales.",
+      "cta": "Verificar mi elegibilidad",
+      "ctaSub": "Gratis · 5 minutos · Sin cuenta requerida",
+      "disclaimer": "Esta herramienta ofrece información educativa únicamente y no constituye asesoría legal."
+    },
+    "howItWorks": {
+      "title": "Cómo funciona",
+      "subtitle": "Tres pasos simples hacia la claridad.",
+      "step1Title": "Responde algunas preguntas",
+      "step1Desc": "Cuéntanos sobre tu perfil, objetivos y situación. Sin formularios complicados — una conversación simple.",
+      "step2Title": "Obtén tu análisis",
+      "step2Desc": "Nuestro sistema evalúa tu perfil según los criterios oficiales de USCIS para cada categoría de visa.",
+      "step3Title": "Toma acción",
+      "step3Desc": "Revisa tus resultados, entiende tus opciones y conecta con un abogado de inmigración si lo necesitas."
+    },
+    "visaTypes": {
+      "title": "Categorías de visa que evaluamos",
+      "subtitle": "Analizamos tu compatibilidad con los caminos más comunes hacia EE.UU.",
+      "o1": {
+        "name": "O-1",
+        "label": "Habilidad Extraordinaria",
+        "desc": "Para personas con talento excepcional en artes, ciencias, negocios, educación o atletismo."
+      },
+      "h1b": {
+        "name": "H-1B",
+        "label": "Ocupación Especializada",
+        "desc": "Para profesionales en campos especializados como tecnología, ingeniería, medicina y finanzas."
+      },
+      "eb2niw": {
+        "name": "EB-2 NIW",
+        "label": "Interés Nacional",
+        "desc": "Para profesionales cuyo trabajo beneficia a EE.UU. — sin necesidad de empleador patrocinador."
+      },
+      "f1": {
+        "name": "F-1",
+        "label": "Visa de Estudiante",
+        "desc": "Para estudiantes internacionales inscritos en programas académicos en universidades de EE.UU."
+      },
+      "l1": {
+        "name": "L-1",
+        "label": "Transferencia Intraempresarial",
+        "desc": "Para gerentes, ejecutivos o especialistas que se transfieren dentro de una empresa multinacional."
+      },
+      "e2": {
+        "name": "E-2",
+        "label": "Inversionista de Tratado",
+        "desc": "Para emprendedores e inversionistas de países con tratado que inician o adquieren un negocio en EE.UU."
+      },
+      "b1b2": {
+        "name": "B-1/B-2",
+        "label": "Visa de Turista",
+        "desc": "Para visitas temporales por turismo, reuniones de negocios o tratamiento médico."
+      },
+      "eb1a": {
+        "name": "EB-1A",
+        "label": "Green Card por Habilidad Extraordinaria",
+        "desc": "Una green card por autopetición para personas que han alcanzado la cima de su campo. No requiere patrocinador."
+      },
+      "eb2perm": {
+        "name": "EB-2 PERM",
+        "label": "Green Card por Patrocinio de Empleador",
+        "desc": "Una green card patrocinada por un empleador de EE.UU. para profesionales con títulos avanzados. Requiere certificación laboral."
+      },
+      "eb1c": {
+        "name": "EB-1C",
+        "label": "Green Card para Ejecutivos Multinacionales",
+        "desc": "Green card para ejecutivos y gerentes multinacionales. Sin PERM. Tasa de aprobación del 97% en FY2025. Los titulares de L-1A están bien posicionados."
+      },
+      "tn": {
+        "name": "Visa TN",
+        "label": "Visa de Trabajo Profesional USMCA",
+        "desc": "Para profesionales mexicanos y canadienses en 63 ocupaciones específicas. Sin lotería, sin límite, sin certificación laboral — uno de los caminos más rápidos para trabajar en EE.UU."
+      },
+      "eb3": {
+        "name": "EB-3",
+        "label": "Green Card por Patrocinio de Empleador",
+        "desc": "Green card patrocinada por empleador para trabajadores calificados y profesionales. Más accesible que EB-1 o EB-2 — cubre una gama más amplia de perfiles y niveles de experiencia."
+      },
+      "j1": {
+        "name": "Visa J-1",
+        "label": "Programa de Visitante de Intercambio",
+        "desc": "Para investigadores, académicos y pasantes en programas de intercambio aprobados. La regla de residencia de dos años puede aplicar — entendela antes de aplicar."
+      },
+      "learnMore": "Saber más"
+    },
+    "testimonials": {
+      "title": "Personas como tú ya están explorando sus opciones",
+      "t1Name": "Valentina R.",
+      "t1Role": "Diseñadora UX · Buenos Aires",
+      "t1Quote": "No tenía idea de que podía calificar para una O-1. Passly AI me mostró exactamente qué necesitaba preparar. Me hizo sentir que era posible.",
+      "t2Name": "Arjun M.",
+      "t2Role": "Ingeniero de Software · Bangalore",
+      "t2Quote": "Por fin algo que explica la H-1B en términos simples. El desglose de puntaje me ayudó a entender mis probabilidades reales.",
+      "t3Name": "Carlos V.",
+      "t3Role": "Fundador de Startup · Ciudad de México",
+      "t3Quote": "Como fundador con un socio en EE.UU., el análisis de L-1 y E-2 fue revelador. Agendé una consulta con un abogado de inmediato."
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "subtitle": "Preguntas comunes sobre visas de EE.UU. y cómo funciona Passly AI.",
+      "q1Q": "¿Esto es asesoría legal?",
+      "q1A": "No. Passly AI ofrece información educativa para ayudarte a entender posibles caminos migratorios. No constituye asesoría legal. Siempre consulta con un abogado de inmigración antes de tomar decisiones migratorias.",
+      "q2Q": "¿Qué tan precisos son los resultados?",
+      "q2A": "Nuestro sistema se basa en criterios oficiales de USCIS y pautas de elegibilidad disponibles públicamente. Los resultados son estimaciones, no garantías. Los casos individuales varían significativamente.",
+      "q3Q": "¿Necesito crear una cuenta?",
+      "q3A": "No se requiere cuenta para completar el análisis. Puedes guardar tus resultados ingresando tu correo al final.",
+      "q4Q": "¿Cuánto tiempo toma el cuestionario?",
+      "q4A": "La mayoría de los usuarios lo completan en 4–7 minutos. Las preguntas se adaptan a tus respuestas.",
+      "q5Q": "¿Qué pasa con mis datos?",
+      "q5A": "Tus respuestas se usan únicamente para generar tus resultados. No vendemos tu información personal.",
+      "q6Q": "¿Puedo compartir mis resultados?",
+      "q6A": "¡Sí! Después de completar el cuestionario, puedes compartir tus resultados como una tarjeta o guardarlos."
+    },
+    "leadCapture": {
+      "title": "Obtén tu análisis de elegibilidad gratuito",
+      "subtitle": "Ingresa tu correo para guardar tus resultados y recibir recursos migratorios personalizados.",
+      "placeholder": "tu@correo.com",
+      "cta": "Obtener mi análisis",
+      "privacy": "Respetamos tu privacidad. Sin spam, nunca.",
+      "invalidEmail": "Por favor ingresa una dirección de correo válida.",
+      "submitError": "Algo salió mal. Por favor intenta de nuevo.",
+      "successTitle": "¡Ya estás en la lista!",
+      "successSub": "Te enviaremos tus resultados y recursos migratorios relevantes a tu correo.",
+      "quizCta": "Iniciar análisis gratuito"
+    },
+    "footer": {
+      "tagline": "Análisis educativo gratuito de elegibilidad de visa para profesionales internacionales.",
+      "visasTitle": "Guías de Visa",
+      "linksTitle": "Accesos Rápidos",
+      "linkQuiz": "Verificar mi elegibilidad",
+      "linkHowItWorks": "Cómo funciona",
+      "linkFaq": "Preguntas frecuentes",
+      "disclaimer": "Passly AI ofrece información educativa sobre caminos migratorios hacia EE.UU. Este contenido no es asesoría legal y no crea una relación abogado-cliente. La ley de inmigración es compleja y las circunstancias individuales varían. Siempre consulta con un abogado de inmigración.",
+      "rights": "Todos los derechos reservados.",
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio"
+    }
+  },
+  "quiz": {
+    "back": "Volver",
+    "next": "Continuar",
+    "submit": "Ver mis resultados",
+    "stepOf": "Paso {current} de {total}",
+    "analyzing": "Analizando tu perfil...",
+    "analyzingSubtitle": "Estamos comparando tu perfil con los criterios oficiales de visas. Solo toma un momento.",
+    "intent": {
+      "question": "¿Qué es lo que principalmente buscas en los Estados Unidos?",
+      "subtitle": "Tu respuesta nos ayuda a mostrarte los caminos más relevantes.",
+      "tourism": "Turismo / Visitas cortas",
+      "tourismDesc": "Quiero visitar EE.UU. temporalmente",
+      "study": "Estudiar",
+      "studyDesc": "Quiero asistir a una universidad o programa académico en EE.UU.",
+      "work": "Trabajar / Desarrollar mi carrera",
+      "workDesc": "Quiero trabajar para una empresa de EE.UU. o usar mis habilidades profesionales",
+      "business": "Iniciar o invertir en un negocio",
+      "businessDesc": "Quiero iniciar, gestionar o invertir en un negocio en EE.UU.",
+      "greenCard": "Residencia permanente (green card)",
+      "greenCardDesc": "Quiero vivir y trabajar en EE.UU. a largo plazo",
+      "notSure": "Aún no estoy seguro/a",
+      "notSureDesc": "Ayúdame a entender mis opciones"
+    },
+    "greenCardPathway": {
+      "question": "¿Qué tipo de camino hacia la residencia permanente te interesa más?",
+      "subtitle": "Esto nos ayuda a enfocarnos en las categorías de green card más relevantes.",
+      "extraordinary": "Habilidad extraordinaria o talento",
+      "extraordinaryDesc": "Basado en logros excepcionales en mi campo",
+      "employer": "Patrocinio de empleador",
+      "employerDesc": "A través de un empleador de EE.UU. que me patrocine",
+      "investment": "Camino basado en inversión",
+      "investmentDesc": "A través de invertir capital en un negocio en EE.UU.",
+      "family": "Camino familiar",
+      "familyDesc": "A través de un familiar que sea ciudadano o residente permanente de EE.UU.",
+      "notSure": "Aún no estoy seguro/a",
+      "notSureDesc": "Muéstrame todos los caminos posibles"
+    },
+    "basicProfile": {
+      "question": "Cuéntanos sobre ti",
+      "subtitle": "La información básica nos ayuda a entender tu punto de partida.",
+      "nationality": "¿Cuál es tu nacionalidad?",
+      "nationalityPlaceholder": "Selecciona tu país",
+      "residence": "¿Dónde vives actualmente?",
+      "residencePlaceholder": "Selecciona tu país",
+      "ageRange": "¿En qué rango de edad estás?",
+      "age1824": "18–24 años",
+      "age2534": "25–34 años",
+      "age3544": "35–44 años",
+      "age4554": "45–54 años",
+      "age55": "55 años o más"
+    },
+    "education": {
+      "question": "Cuéntanos sobre tu educación",
+      "subtitle": "La educación es un factor clave para muchas categorías de visa.",
+      "level": "¿Cuál es tu nivel máximo de estudios?",
+      "none": "Sin título formal",
+      "highSchool": "Diploma de bachillerato o equivalente",
+      "bachelors": "Licenciatura o pregrado",
+      "masters": "Maestría",
+      "phd": "Doctorado (PhD)",
+      "other": "Otra credencial profesional",
+      "field": "¿Cuál fue tu área de estudio?",
+      "fieldPlaceholder": "Ej: Ciencias de la Computación, Negocios, Medicina",
+      "degreeCountry": "¿Dónde obtuviste tu título?",
+      "professionMatch": "¿Tu profesión actual está relacionada con tu área de estudio?",
+      "yes": "Sí, muy relacionada",
+      "somewhat": "Algo relacionada",
+      "no": "No, campo diferente",
+      "documents": "¿Qué documentos tienes disponibles actualmente?",
+      "documentsSubtitle": "Selecciona todos los que apliquen",
+      "diploma": "Diploma o certificado de grado",
+      "transcripts": "Transcripciones académicas oficiales",
+      "noDocs": "Aún no los tengo"
+    },
+    "professional": {
+      "question": "Cuéntanos sobre tu experiencia profesional",
+      "subtitle": "Tu experiencia laboral influye significativamente en tus opciones de visa.",
+      "profession": "¿Cuál es tu profesión actual o área principal de trabajo?",
+      "professionPlaceholder": "Ej: Ingeniero de Software, Diseñador, Médico",
+      "yearsExp": "¿Cuántos años de experiencia profesional tienes?",
+      "lessThan1": "Menos de 1 año",
+      "years13": "1–3 años",
+      "years36": "3–6 años",
+      "years610": "6–10 años",
+      "years10plus": "Más de 10 años",
+      "employmentType": "¿Cuál es tu situación laboral actual?",
+      "employee": "Empleado en una empresa",
+      "freelance": "Freelancer o contratista independiente",
+      "founder": "Fundador o co-fundador de startup",
+      "unemployed": "Actualmente sin trabajo",
+      "management": "¿Tienes experiencia en gerencia o liderazgo?",
+      "managementYes": "Sí, gestiono o he gestionado un equipo",
+      "managementNo": "Sin experiencia en gerencia",
+      "income": "¿Cuál es tu ingreso anual aproximado?",
+      "incomeSub": "En USD o equivalente",
+      "income1": "Menos de $30,000",
+      "income2": "$30,000 – $60,000",
+      "income3": "$60,000 – $100,000",
+      "income4": "$100,000 – $200,000",
+      "income5": "Más de $200,000",
+      "clients": "¿Has trabajado con empresas, clientes u organizaciones reconocidas?",
+      "clientsPlaceholder": "Ej: Google, una empresa Fortune 500, publicaciones importantes"
+    },
+    "recognition": {
+      "question": "Cuéntanos sobre tus logros y reconocimientos",
+      "subtitle": "Estos factores son especialmente importantes para la elegibilidad O-1 y EB-2 NIW.",
+      "publications": "¿Has escrito o co-escrito publicaciones, artículos o papers de investigación?",
+      "publicationsCount": "¿Aproximadamente cuántos?",
+      "pub1": "1–3 publicaciones",
+      "pub2": "4–10 publicaciones",
+      "pub3": "Más de 10",
+      "speaking": "¿Has sido invitado/a a hablar en conferencias, paneles o eventos?",
+      "awards": "¿Has recibido premios, reconocimientos o distinciones en tu industria?",
+      "media": "¿Tu trabajo ha aparecido en medios, prensa o publicaciones online?",
+      "certifications": "¿Tienes certificaciones profesionales o cursos especializados?",
+      "memberships": "¿Eres miembro de asociaciones u organizaciones profesionales?",
+      "judging": "¿Has participado como jurado, mentor o evaluador en tu campo?",
+      "portfolio": "¿Tienes un portafolio profesional, sitio web o presencia online?",
+      "patents": "¿Has presentado o te han otorgado alguna patente?",
+      "patentsDesc": "Incluyendo patentes presentadas en cualquier país o solicitudes pendientes.",
+      "recognitionBeyondEmployer": "¿Tu reconocimiento profesional va más allá de tu empresa actual o tu área local?",
+      "recognitionBeyondEmployerDesc": "Ej: premios de la industria, cobertura mediática o invitaciones a hablar que trascienden tu empleador o región.",
+      "yes": "Sí",
+      "no": "No"
+    },
+    "usConnection": {
+      "question": "Tu conexión con los Estados Unidos",
+      "subtitle": "La experiencia previa en EE.UU. y las conexiones pueden fortalecer tu solicitud.",
+      "priorVisits": "¿Has estado alguna vez en los Estados Unidos?",
+      "never": "Nunca",
+      "once": "Una o dos veces",
+      "several": "Varias veces",
+      "frequently": "Viajo frecuentemente a EE.UU.",
+      "priorVisaType": "¿Qué tipo de visa usaste?",
+      "priorVisaPlaceholder": "Ej: B-1/B-2, F-1, J-1",
+      "overstay": "¿Alguna vez te quedaste más tiempo del permitido o violaste los términos de una visa de EE.UU.?",
+      "denial": "¿Alguna vez te negaron una visa de EE.UU.?",
+      "sponsor": "¿Tienes un empleador en EE.UU. que pueda patrocinarte?",
+      "permanentSponsor": "¿Tienes un empleador en EE.UU. dispuesto a patrocinarte para un puesto permanente (patrocinio de green card)?",
+      "permanentSponsorDesc": "El empleador presentaría la certificación laboral PERM y una petición I-140 de EB-2 o EB-3 en tu nombre.",
+      "temporarySponsor": "¿Tienes un empleador en EE.UU. dispuesto a patrocinarte para una visa de trabajo temporal (H-1B o similar)?",
+      "temporarySponsorDesc": "El empleador presentaría una petición de visa H-1B, L-1 u otra visa de no inmigrante.",
+      "businessPartner": "¿Tienes un socio de negocios o co-fundador en EE.UU.?",
+      "familyInUs": "¿Tienes familiares viviendo en los Estados Unidos?",
+      "familyNote": "Tener familia en EE.UU. puede ser un factor de apoyo para la reubicación, pero no significa automáticamente elegibilidad para patrocinio familiar.",
+      "universityAcceptance": "¿Tienes una carta de aceptación de una universidad o institución académica de EE.UU.?",
+      "investment": "¿Tienes capital de inversión disponible para un negocio en EE.UU.?",
+      "investmentAmount": "¿Aproximadamente cuánto?",
+      "inv1": "Menos de $50,000",
+      "inv2": "$50,000 – $100,000",
+      "inv3": "$100,000 – $500,000",
+      "inv4": "Más de $500,000",
+      "yes": "Sí",
+      "no": "No"
+    },
+    "goals": {
+      "question": "Tus objetivos migratorios",
+      "subtitle": "Entender tu cronograma y planes a largo plazo nos ayuda a priorizar los caminos.",
+      "timeline": "¿Cuándo esperas hacer el traslado?",
+      "asap": "Lo antes posible",
+      "months6": "Dentro de 6 meses",
+      "year1": "Dentro de 1 año",
+      "years2": "En 2+ años",
+      "exploring": "Solo estoy explorando por ahora",
+      "longTermGoal": "¿Cuál es tu objetivo a largo plazo?",
+      "temporary": "Visita temporal o estadía corta",
+      "multiYear": "Trabajo o estadía de varios años",
+      "permanent": "Residencia permanente (green card)",
+      "citizenship": "Ciudadanía de EE.UU. eventual",
+      "preferredState": "¿Tienes una ciudad o estado preferido en EE.UU.? (opcional)",
+      "statePlaceholder": "Ej: Nueva York, California, Texas"
+    },
+    "dependents": {
+      "question": "Hijos y dependientes",
+      "subtitle": "Cuéntanos si familiares te acompañarían.",
+      "hasDependents": "¿Tienes hijos o dependientes que podrían emigrar contigo?",
+      "yes": "Sí, tengo dependientes",
+      "no": "Sin dependientes",
+      "howMany": "¿Cuántos hijos o dependientes?",
+      "ages": "¿Cuáles son sus edades?",
+      "ageNote": "Algunos caminos migratorios de EE.UU. tienen límites de edad para dependientes. Los hijos que cumplan 21 años durante el proceso pueden perder elegibilidad como beneficiarios derivados en algunas categorías — esto vale la pena consultarlo con un profesional de inmigración.",
+      "ageOutWarning": "Uno o más dependientes pueden estar acercándose a los límites de elegibilidad por edad. El tiempo podría ser importante y esto puede requerir planificación adicional. Vale la pena consultarlo con un profesional de inmigración."
+    },
+    "homeTies": {
+      "question": "Tus vínculos con tu país de origen",
+      "subtitle": "Para visas de turista, los cónsules evalúan si tienes razones sólidas para regresar. Estas preguntas ayudan a identificar factores que pueden fortalecer tu solicitud.",
+      "note": "Estos son factores que pueden ayudar a demostrar tu intención de regresar — no son acusaciones.",
+      "employment": "¿Actualmente tienes empleo en tu país de origen?",
+      "studying": "¿Estás inscrito/a en algún programa académico actualmente?",
+      "property": "¿Tienes propiedades o bienes raíces?",
+      "vehicleOrBusiness": "¿Tienes un vehículo o un negocio?",
+      "married": "¿Estás casado/a o en unión de hecho?",
+      "priorTravel": "¿Cómo describirías tu historial de viajes internacionales?",
+      "travelExtensive": "Amplio — viajo internacionalmente con frecuencia",
+      "travelModerate": "Moderado — he viajado algunas veces",
+      "travelLimited": "Limitado — uno o dos viajes",
+      "travelNone": "Ninguno — sería mi primer viaje",
+      "plansToReturn": "¿Planeas regresar a tu país después de tu visita?",
+      "yes": "Sí",
+      "no": "No"
+    }
+  },
+  "results": {
+    "title": "Tu Análisis de Elegibilidad para Visas",
+    "subtitle": "Según tu perfil, estos son los caminos que podrían estar disponibles para ti.",
+    "disclaimer": "Estos resultados son estimaciones educativas únicamente y no constituyen asesoría legal. Los casos individuales de inmigración varían significativamente. Consulta con un abogado de inmigración para orientación profesional.",
+    "topMatch": "Mejor Opción",
+    "secondMatch": "Opción Sólida",
+    "thirdMatch": "Vale la Pena Explorar",
+    "score": "Puntaje de Compatibilidad",
+    "confidence": {
+      "high": "Alta Compatibilidad",
+      "medium": "Compatibilidad Posible",
+      "low": "Compatibilidad Limitada",
+      "not_applicable": "No Aplica"
+    },
+    "lotteryWarning": "Nota: La selección H-1B está sujeta a una lotería anual (~20% de tasa de selección). La elegibilidad técnica no garantiza la selección.",
+    "ageOutWarning": "Consideración de edad de dependientes: Uno o más dependientes pueden estar acercándose a los límites de elegibilidad por edad. Consulta con un abogado sobre los tiempos.",
+    "strengths": "Tus fortalezas",
+    "weaknesses": "Áreas a fortalecer",
+    "riskFactors": "Factores de riesgo",
+    "nextSteps": "Próximos pasos sugeridos",
+    "evidence": "Documentos a preparar",
+    "processingTime": "Tiempo típico de procesamiento",
+    "estimatedCost": "Costos de presentación estimados",
+    "months": "meses",
+    "shareCard": "Compartir mis resultados",
+    "shareTitle": "Mi Análisis de Visas de EE.UU.",
+    "shareSubtitle": "Mejor opción:",
+    "retake": "Repetir el cuestionario",
+    "talkToAttorney": "Habla con un abogado de inmigración",
+    "talkToAttorneyDesc": "¿Listo para dar el siguiente paso? Conecta con un abogado de inmigración que pueda evaluar tu caso completo.",
+    "scheduleConsultation": "Agendar una consulta gratuita",
+    "noResults": "No pudimos calcular resultados. Por favor intenta de nuevo.",
+    "analysisMonths": "{min}–{max} meses",
+    "crossPathwayTitle": "Estrategia de doble camino disponible",
+    "crossPathwayNotice": "Tu perfil podría calificar para EB-1A y EB-2 NIW al mismo tiempo. Estas categorías comparten requisitos de evidencia similares pero aplican estándares legales distintos. Muchos solicitantes presentan ambas peticiones simultáneamente para establecer la fecha de prioridad más temprana posible. Un abogado de inmigración puede ayudarte a definir la mejor estrategia.",
+    "niw": {
+      "weakestProng1Notice": "Los casos NIW más sólidos definen claramente un emprendimiento propuesto específico y lo conectan a prioridades nacionales documentadas. Las descripciones genéricas de tu profesión son una razón común de negación en 2025-2026.",
+      "weakestProng2Notice": "Construir un historial documentado de éxito — a través de publicaciones, resultados medibles o reconocimiento de entidades estadounidenses — fortalece significativamente esta área.",
+      "weakestProng3Notice": "Esta es la parte más comúnmente cuestionada. Requiere mostrar no solo que tu trabajo es valioso, sino específicamente por qué EE.UU. se beneficia más de dispensar el requisito de oferta de empleo que de exigir el proceso estándar de certificación laboral.",
+      "highRfeNotice": "Tu perfil muestra potencial para esta opción, pero una o más áreas pueden necesitar fortalecimiento antes de presentar. Un abogado de inmigración puede ayudarte a identificar las brechas.",
+      "context2026": "Contexto 2025-2026: Las tasas de negación NIW superaron las aprobaciones en Q4 2025. Los emprendimientos no-STEM y no-salud con documentación de impacto nacional limitada enfrentan el mayor riesgo.",
+      "o1a": {
+        "belowGate": "Tu perfil aún no alcanza el umbral mínimo para O-1A (3 de 8 criterios), pero estás construyendo en la dirección correcta. Enfocarte en estas áreas podría hacer viable esta opción.",
+        "highRfe": "Tu perfil cumple el umbral mínimo de criterios, pero la calidad de la evidencia en una o más áreas puede generar una RFE. Un abogado especializado en O-1A puede ayudarte a identificar y fortalecer los puntos débiles antes de presentar.",
+        "c5Weak": "El criterio de contribuciones originales (Criterio 5) es el más frecuentemente cuestionado en RFEs de O-1A. Cartas de expertos no afiliados con declaraciones de impacto específicas — no genéricas — son esenciales.",
+        "context2025": "FY2025: tasa de aprobación O-1 ~94%, tasa de RFE ~18.7%. Categoría de visa más estable en 2025-2026. Sin cupo anual, sin lotería.",
+        "criteria": {
+          "c1": "Premios nacionales o internacionales de excelencia",
+          "c2": "Membresía en asociación de élite (con selección por expertos)",
+          "c3": "Material publicado SOBRE ti y tu trabajo (no por ti)",
+          "c4": "Evaluación documentada del trabajo de otros (revisión por pares, jurado)",
+          "c5": "Contribuciones originales de importancia mayor (con cartas de expertos no afiliados)",
+          "c6": "Artículos académicos en publicaciones reconocidas del campo",
+          "c8": "Rol crítico o de liderazgo en organización con reputación distinguida",
+          "c9": "Alta remuneración relativa a pares en el campo (con datos comparativos)"
+        },
+        "evidence": {
+          "c5": "Cartas de expertos no afiliados con declaraciones de impacto ESPECÍFICAS + datos de citaciones + evidencia de adopción por terceros + métricas de uso real",
+          "c4": "Cartas de invitación de editores u organizadores + confirmación de revisión completada + ejemplos de trabajos revisados (anonimizados)",
+          "c1": "Certificados de premios + información de la organización otorgante + documentación de criterios de selección + cobertura mediática del premio",
+          "c9": "Cartas de oferta/talones de pago + datos BLS de comparación + encuesta salarial de la industria por rol y ubicación",
+          "c8": "Organigrama + cartas de liderazgo + evidencia de reputación distinguida de la organización (ingresos, clasificaciones, cobertura mediática, premios, clientes notables)"
+        }
+      },
+      "evidence": {
+        "prong1": [
+          "Descripción específica del emprendimiento propuesto en EE.UU. (no tu cargo o campo general)",
+          "Informes de la industria o datos gubernamentales que muestren demanda nacional en tu campo",
+          "Datos del BLS, NIH, DOE u otras agencias que vinculen tu campo a prioridades nacionales",
+          "Evidencia de interés de instituciones o empresas de EE.UU. en tu trabajo (cartas, acuerdos, invitaciones)",
+          "Publicaciones o cobertura de noticias sobre la importancia nacional de tu campo específico de emprendimiento"
+        ],
+        "prong2": [
+          "Diplomas de títulos avanzados y transcripciones oficiales (Maestría, Doctorado o equivalente)",
+          "Cartas de empleo que muestren responsabilidad progresiva y roles de liderazgo en el campo",
+          "Publicaciones, patentes u otros resultados documentados de proyectos con impacto medible",
+          "Cartas de expertos de EE.UU. que describan específicamente tu expertise y su impacto",
+          "Métricas cuantificables: citas, usuarios, ingresos generados, tasas de adopción, alcance de proyectos"
+        ],
+        "prong3": [
+          "Evidencia de trabajo por cuenta propia, contratos con múltiples clientes, o que el proceso PERM es impracticable para tu situación",
+          "Cartas de entidades de EE.UU. que expresen necesidad específica de tu expertise (no simplemente referencias de carácter)",
+          "Documentación de que tus contribuciones benefician a EE.UU. independientemente de la disponibilidad de trabajadores competidores",
+          "Plan de negocios concreto o plan de actividades en EE.UU. con hitos específicos",
+          "Evidencia de urgencia o singularidad: escasez documentada en el campo, impacto de tiempo-crítico, adopción por terceros"
+        ]
+      }
+    }
+  },
+  "leads": {
+    "title": "Guarda tus resultados",
+    "subtitle": "Ingresa tu correo para guardar tu análisis y recibir recursos migratorios personalizados.",
+    "namePlaceholder": "Tu nombre (opcional)",
+    "emailPlaceholder": "tu@correo.com",
+    "attorneyInterest": "Me interesa hablar con un abogado de inmigración",
+    "submit": "Guardar mis resultados",
+    "submitting": "Guardando...",
+    "success": "¡Listo! Revisa tu correo para ver tus resultados.",
+    "privacy": "Respetamos tu privacidad. Sin spam.",
+    "error": "Algo salió mal. Por favor intenta de nuevo."
+  },
+  "visas": {
+    "o1": {
+      "name": "Visa O-1",
+      "fullName": "Visa O-1: Personas con Habilidad Extraordinaria",
+      "tagline": "Para personas en la cima de su campo",
+      "description": "La visa O-1 es para personas que han demostrado habilidad extraordinaria en ciencias, artes, educación, negocios o atletismo. Requiere mostrar reconocimiento nacional o internacional sostenido a través de premios, publicaciones, conferencias, roles críticos o alta compensación.",
+      "source": "USCIS"
+    },
+    "h1b": {
+      "name": "Visa H-1B",
+      "fullName": "H-1B: Trabajadores en Ocupación Especializada",
+      "tagline": "La visa de trabajo más común para profesionales",
+      "description": "La H-1B permite a empresas de EE.UU. contratar trabajadores extranjeros en ocupaciones especializadas que requieren conocimiento técnico o teórico. Generalmente se requiere licenciatura o superior en un campo relacionado. Está sujeta a un proceso anual de lotería."
+    },
+    "eb2niw": {
+      "name": "EB-2 NIW",
+      "fullName": "EB-2 Exención por Interés Nacional",
+      "tagline": "Una green card sin necesidad de empleador patrocinador",
+      "description": "El EB-2 NIW permite a personas con títulos avanzados o habilidad excepcional presentar su propio caso para una green card si su trabajo es de interés nacional para los Estados Unidos. No se requiere empleador patrocinador."
+    },
+    "f1": {
+      "name": "Visa F-1",
+      "fullName": "F-1: Visa de Estudiante Académico",
+      "tagline": "Estudia en una universidad de EE.UU.",
+      "description": "La visa F-1 permite a estudiantes internacionales cursar estudios académicos en universidades acreditadas y programas de idiomas en EE.UU. Los estudiantes deben mantener inscripción de tiempo completo y demostrar intención de no inmigrante."
+    },
+    "l1": {
+      "name": "Visa L-1",
+      "fullName": "L-1: Transferencia Intraempresarial",
+      "tagline": "Transfíerete dentro de tu empresa multinacional",
+      "description": "La L-1 permite a empresas multinacionales transferir empleados en roles gerenciales, ejecutivos o de conocimiento especializado a una oficina en EE.UU. La L-1A es para gerentes y ejecutivos; la L-1B para trabajadores con conocimiento especializado."
+    },
+    "e2": {
+      "name": "Visa E-2",
+      "fullName": "E-2: Visa de Inversionista de Tratado",
+      "tagline": "Invierte en un negocio en EE.UU.",
+      "description": "La visa E-2 de inversionista de tratado permite a nacionales de países con tratado invertir una cantidad sustancial en un negocio de EE.UU. y dirigir sus operaciones. El negocio no debe ser marginal y el inversionista debe tener participación de control."
+    },
+    "b1b2": {
+      "name": "Visa B-1/B-2",
+      "fullName": "B-1/B-2: Visa de Visitante",
+      "tagline": "Visita EE.UU. temporalmente",
+      "description": "La visa B-1/B-2 permite visitas temporales a EE.UU. por negocios (B-1) o turismo y razones personales (B-2). Los solicitantes deben demostrar vínculos sólidos con su país de origen e intención de no inmigrante."
+    },
+    "eb1a": {
+      "name": "Green Card EB-1A",
+      "fullName": "EB-1A: Green Card por Habilidad Extraordinaria",
+      "tagline": "Una green card por autopetición — sin patrocinador requerido",
+      "description": "La EB-1A ofrece un camino directo a la green card para personas que han alcanzado la cima de su campo — en ciencias, artes, negocios, educación o atletismo. No se requiere oferta de empleo ni empleador patrocinador. Se basa en el mismo estándar legal que la visa O-1A."
+    },
+    "eb2perm": {
+      "name": "EB-2 PERM",
+      "fullName": "EB-2 PERM: Green Card por Patrocinio de Empleador",
+      "tagline": "Una green card mediante patrocinio de empleador y certificación laboral",
+      "description": "La EB-2 PERM es una green card patrocinada por un empleador de EE.UU. para profesionales con títulos avanzados o habilidad excepcional. Requiere una oferta de empleo permanente, un proceso de certificación laboral ante el Departamento de Trabajo (PERM) y una petición I-140 inmigratoria."
+    }
+  },
+  "seo": {
+    "defaultTitle": "{visa} — Guía de Visa de EE.UU.",
+    "defaultDesc": "Aprende sobre los requisitos de elegibilidad de {visa} y cómo aplicar. Guía educativa basada en criterios oficiales de USCIS.",
+    "eligibility": "Factores de elegibilidad",
+    "commonMistakes": "Errores comunes a evitar",
+    "faq": "Preguntas frecuentes",
+    "checkEligibility": "Verifica tu elegibilidad ahora",
+    "checkEligibilityDesc": "Responde algunas preguntas sobre tu perfil y te mostraremos cómo cumples con los criterios de {visa}.",
+    "startQuiz": "Iniciar análisis gratuito",
+    "relatedVisas": "Categorías de visa relacionadas",
+    "disclaimer": "Esta guía ofrece información educativa basada en fuentes oficiales de USCIS y el Departamento de Estado de EE.UU. No constituye asesoría legal.",
+    "ctaLabel": "Verificar mi elegibilidad",
+    "quizLabel": "¿Listo para encontrar tu mejor camino hacia una visa de EE.UU.?",
+    "mistakesTitle": "Errores comunes a evitar",
+    "eligibilityTitle": "Factores clave de elegibilidad",
+    "faqTitle": "Preguntas frecuentes",
+    "relatedTitle": "Guías de visa relacionadas"
+  },
+  "common": {
+    "yes": "Sí",
+    "no": "No",
+    "notSure": "No estoy seguro/a",
+    "selectOption": "Selecciona una opción",
+    "required": "Requerido",
+    "optional": "Opcional",
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "tryAgain": "Intentar de nuevo",
+    "close": "Cerrar",
+    "learnMore": "Saber más",
+    "months": "meses",
+    "years": "años",
+    "free": "Gratis"
+  },
+  "disclaimer": {
+    "short": "Solo informativo — no es asesoría legal.",
+    "long": "Passly AI ofrece información educativa sobre caminos migratorios de EE.UU. basada en criterios públicamente disponibles de USCIS y el Departamento de Estado. Esta herramienta no constituye asesoría legal, no crea una relación abogado-cliente, y no debe usarse como sustituto de asesoría legal profesional. La ley de inmigración es compleja y las circunstancias individuales varían significativamente. Siempre consulta con un abogado de inmigración antes de tomar decisiones migratorias.",
+    "ctaLabel": "Más información sobre nuestro aviso legal"
+  },
+  "check": {
+    "results": {
+      "title": "Tus resultados de elegibilidad para visa",
+      "titlePersonalized": "Aquí están tus opciones de visa, {name}",
+      "subtitle": "Según tu perfil, estos son los caminos que podrían estar disponibles para ti.",
+      "noResults": "No pudimos calcular tus resultados. Por favor intenta el cuestionario de nuevo.",
+      "retake": "Volver a hacer el cuestionario"
+    },
+    "leads": {
+      "title": "Guarda tus resultados personalizados",
+      "subtitle": "Ingresa tus datos para recibir tu análisis completo y recursos de inmigración.",
+      "namePlaceholder": "Tu nombre (opcional)",
+      "emailPlaceholder": "tu@email.com",
+      "whatsappPlaceholder": "Número de WhatsApp (opcional, ej. +52 55 1234 5678)",
+      "submit": "Guardar mis resultados",
+      "submitting": "Guardando...",
+      "success": "¡Listo! Te enviaremos tus resultados pronto.",
+      "privacy": "Respetamos tu privacidad. Sin spam."
+    }
+  }
+}
