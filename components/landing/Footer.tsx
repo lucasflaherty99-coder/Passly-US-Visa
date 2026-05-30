@@ -12,7 +12,7 @@ export function Footer() {
   return (
     <footer className="bg-navy text-white/70 py-14 px-4">
       <div className="max-w-5xl mx-auto">
-        <div className="grid md:grid-cols-3 gap-10 mb-10">
+        <div className="grid md:grid-cols-4 gap-10 mb-10">
           <div>
             <div className="flex items-center gap-2 mb-3">
               <span className="text-xl">🛂</span>
@@ -63,6 +63,22 @@ export function Footer() {
             <div className="mt-6">
               <LanguageToggle />
             </div>
+          </div>
+
+          <div>
+            <p className="font-semibold text-white text-sm mb-4">{t("legalTitle")}</p>
+            <ul className="space-y-2 text-sm">
+              <li>
+                <Link href={`/${locale}/privacy`} className="hover:text-white transition-colors">
+                  {t("privacy")}
+                </Link>
+              </li>
+              <li>
+                <Link href={`/${locale}/terms`} className="hover:text-white transition-colors">
+                  {t("terms")}
+                </Link>
+              </li>
+            </ul>
           </div>
         </div>
 

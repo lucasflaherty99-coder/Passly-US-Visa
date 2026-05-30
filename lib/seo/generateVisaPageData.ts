@@ -720,7 +720,7 @@ const VISA_PAGES: VisaPageContent[] = [
     ],
     relatedSlugs: [
       "f1-student-visa-guide",
-      "h1b-visa-specialty-occupations",
+      "h1b-visa-specialty-occupation",
       "eb2-niw-engineers",
     ],
   },
@@ -833,7 +833,7 @@ const VISA_PAGES: VisaPageContent[] = [
     ],
     relatedSlugs: [
       "eb2-niw-engineers",
-      "h1b-visa-specialty-occupations",
+      "h1b-visa-specialty-occupation",
       "visas/eb2-perm-employer-sponsored",
     ],
   },
@@ -945,7 +945,7 @@ const VISA_PAGES: VisaPageContent[] = [
       },
     ],
     relatedSlugs: [
-      "h1b-visa-specialty-occupations",
+      "h1b-visa-specialty-occupation",
       "o1-visa-guide",
       "eb2-niw-engineers",
     ],

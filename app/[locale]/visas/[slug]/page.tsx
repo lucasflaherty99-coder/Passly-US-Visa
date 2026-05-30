@@ -33,7 +33,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const altContent = getVisaPageDataByLocale(slug, alternate);
 
   return {
-    title: `${content.title} | Passly AI`,
+    title: content.title,
     description: content.description,
     alternates: {
       canonical,
