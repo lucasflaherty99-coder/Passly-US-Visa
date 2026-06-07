@@ -834,7 +834,7 @@ const VISA_PAGES: VisaPageContent[] = [
     relatedSlugs: [
       "eb2-niw-engineers",
       "h1b-visa-specialty-occupation",
-      "visas/eb2-perm-employer-sponsored",
+      "eb2-perm-employer-sponsored",
     ],
   },
   {
